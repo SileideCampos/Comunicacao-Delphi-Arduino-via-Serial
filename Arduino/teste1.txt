@@ -1,2 +1,0 @@
-# Comunicacao-Delphi-Arduino-via-Serial
-Exemplo de como realizar a comunicação do Delphi com o Arduino (Envio e recebimento de dados)
