@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/06/21 23:46:58.000.671,=C:\Users\Sileide\Downloads\comport411f\Source\BarCodeScaner.dcu</Transaction>
+    <Transaction>2016/06/21 23:47:08.000.271,C:\Users\Sileide\Downloads\comport411f\Source\BarCodeScaner.dcu=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="CPort.pas"/>
+    <File Path="CPortCtl.pas"/>
+    <File Path="CPortEsc.pas"/>
+    <File Path="CPortSetup.pas"/>
+    <File Path="CPortSetup.dfm"/>
+    <File Path="CPortTrmSet.pas"/>
+    <File Path="CPortTrmSet.dfm"/>
+    <File Path="rtl.dcp"/>
+    <File Path="vcl.dcp"/>
+    <File Path="vclx.dcp"/>
+  </ProjectSortOrder>
+</BorlandProject>
